@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "awesome",
+  "version": "1.0.0",
+  "name": "Awesome",
+  "description": "Expressive editorial color, layered cards, and dramatic reading typography.",
+  "framework": {
+    "minimumVersion": "2.0.32",
+    "maximumVersionExclusive": "3.0.0"
+  },
+  "css": {
+    "path": "theme.css",
+    "sha256": "3eb39b56a0ee3611d4a044400a7483bb2999b0c0f3944c2815588bda769c4d80"
+  }
+}
